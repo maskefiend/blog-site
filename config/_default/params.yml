@@ -37,7 +37,7 @@ banner: "images/vanbanner.png"
 
 # If you want to use the srcset attribute, please enable it
 banner_srcset:
-  enable: false
+  enable: true
   srcset:
     - src: "images/vanbanner.png"
       media: "(max-width: 479px)"
