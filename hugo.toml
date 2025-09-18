@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://maskefiend.github.io/blog-site/'
 languageCode = 'en'
 title = 'My New Hugo Site'
 theme = 'hugo-theme-reimu'
