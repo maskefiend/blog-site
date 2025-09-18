@@ -39,11 +39,11 @@ banner: "images/vanbanner.png"
 banner_srcset:
   enable: true
   srcset:
-    - src: "images/vanbanner.png"
+    - src: "images/exorcistsbanner.jpg"
       media: "(max-width: 479px)"
-    - src: "images/vanbanner.png"
+    - src: "images/exorcistsbanner.jpg"
       media: "(max-width: 799px)"
-    - src: "images/vanbanner.png"
+    - src: "images/exorcistsbanner.jpg"
       media: "(min-width: 800px)"
 
 avatar: "van.jpg"
